@@ -2,7 +2,7 @@ package com.KaZuN;
 
 import java.util.Scanner;
 
-public class Main {
+public class FindProfit {
 
     public static void main(String args[]) {
 
